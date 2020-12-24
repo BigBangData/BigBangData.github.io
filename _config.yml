@@ -1,12 +1,10 @@
 title: Marcelo Sanches # your name (or website title) here
 logo: "/images/profile_pic.jpg" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Data Science Engineer at KPA
-  - stuff I do there
-  - more stuff I do
   <br><br>
-  Also did some more stuff. 
-  I do stuff.
+  Data Science Engineer at KPA. Add a description here.
+  <br><br>
+  I also do more stuff. See my stuff here on the side.
   <br><br>
   <a href="https://www.linkedin.com/in/big-bang-data/">View My LinkedIn Profile</a> 
   
