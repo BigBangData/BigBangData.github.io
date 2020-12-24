@@ -1,5 +1,5 @@
 title: Marcelo Sanches # your name (or website title) here
-logo: "/images/profile_pic.jpg?raw=true" # your photo (or logo) here
+logo: "/images/profile_pic.jpg" #?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science Engineer at KPA
   - stuff I do there
