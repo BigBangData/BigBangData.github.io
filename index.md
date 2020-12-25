@@ -9,7 +9,7 @@
 
 ---
 [Python Distributed File System](https://github.com/BigBangData/PythonDFS)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PythonDFSdemo.gif?raw=true"/>
 
 ---
 [Example PowerPoint Presentation](/pdf/sample_presentation.pdf)
