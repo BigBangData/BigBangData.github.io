@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
-<img src="images/elasticsearch_recommender.png?raw=true"/>
+<img src="images/elasticsearch_recommender.gif?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
