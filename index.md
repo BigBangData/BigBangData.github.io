@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1
+### Data Engineering
 
 [Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
 <img src="images/elasticsearch_recommender.gif?raw=true"/>
@@ -12,16 +12,16 @@
 <img src="images/PythonDFSdemo.gif?raw=true"/>
 
 ---
-[Example PowerPoint Presentation](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### Data Visualization
+
+- [Coronavirus Data Analysis](https://rpubs.com/BigBangData/Coronavirus)
+
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
+- [Inceed Salaries for Data Jobs](https://rpubs.com/BigBangData/557787)
+<img src="images/IndeedSalaries.PNG"/>
 
 ---
 
