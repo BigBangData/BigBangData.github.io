@@ -6,10 +6,11 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <bold>My Journey</bold>
   <br><br>
-  I love learning and building new things. I’m fascinated by how we can combine data, statistics, and computing, to extract insights that would otherwise be lost to the human mind.
-  A deep thinker by nature, my journey has taking me from creative to analytical pursuits. I'm actively looking for opportunities in the data analytics - data science space. My skills range from databases to data analysis, visualization, predictive analytics, and machine learning.
-  <br><br>
+  I love learning and building new things. I'm fascinated by machine learning and the AI field.
+  <br><br><br>
   <a href="https://www.linkedin.com/in/big-bang-data/">View My LinkedIn Profile</a> 
-  
+  <a href="https://github.com/BigBangData">View My GitHub</a> 
+  <br><br><br>   
+ 
 theme: jekyll-theme-minimal
 #google_analytics: UA-000000-0 # your Google Analytics tracking ID here
