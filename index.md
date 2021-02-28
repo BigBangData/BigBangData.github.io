@@ -2,6 +2,18 @@
 
 ---
 
+### Data Visualization
+
+- [Coronavirus Data Analysis](https://rpubs.com/BigBangData/Coronavirus)
+<img src="images/interactiveplots.gif?raw=true"/>
+
+---
+
+- [Indeed Salaries for Data Jobs](https://rpubs.com/BigBangData/557787)
+<img src="images/IndeedSalaries.PNG"/>
+
+---
+
 ### Data Engineering
 
 [Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
@@ -10,21 +22,6 @@
 ---
 [Python Distributed File System](https://github.com/BigBangData/PythonDFS)
 <img src="images/PythonDFSdemo.gif?raw=true"/>
-
----
-
-### Data Visualization
-
-- [Coronavirus Data Analysis](https://rpubs.com/BigBangData/Coronavirus)
-
-
----
-
-- [Inceed Salaries for Data Jobs](https://rpubs.com/BigBangData/557787)
-<img src="images/IndeedSalaries.PNG"/>
-
----
-
 
 
 ---
