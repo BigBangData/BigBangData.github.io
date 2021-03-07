@@ -1,5 +1,15 @@
 ## Portfolio
 
+
+### Data Engineering
+
+[Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
+<img src="images/elasticsearch_recommender.gif?raw=true"/>
+
+---
+[Python Distributed File System](https://github.com/BigBangData/PythonDFS)
+<img src="images/PythonDFSdemo.gif?raw=true"/>
+
 ---
 
 ### Data Visualization
@@ -14,14 +24,12 @@
 
 ---
 
-### Data Engineering
+### Data Fun
 
-[Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
-<img src="images/elasticsearch_recommender.gif?raw=true"/>
+- [Testing New Home Internet Speeds](https://github.com/BigBangData/Speedtest)
+<img src="images/speedtest_viz.png"/>
 
----
-[Python Distributed File System](https://github.com/BigBangData/PythonDFS)
-<img src="images/PythonDFSdemo.gif?raw=true"/>
+
 
 
 ---
