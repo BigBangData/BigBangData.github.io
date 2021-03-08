@@ -26,10 +26,10 @@
 
 ### Data Fun
 
-- [Testing New Home Internet Speeds](https://github.com/BigBangData/Speedtest)
+- [Testing New Home Internet Speeds](https://github.com/BigBangData/Speedtest/blob/speed/README.md)
 <img src="images/speedtest_viz.png"/>
 
-
+[Link to another page](./another-page.html).
 
 
 ---
