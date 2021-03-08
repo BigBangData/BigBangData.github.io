@@ -3,11 +3,11 @@
 
 ### Data Engineering
 
-[Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender)
+[Elasticsearch Recommender](https://github.com/BigBangData/ElasticsearchRecommender/blob/master/README.md)
 <img src="images/elasticsearch_recommender.gif?raw=true"/>
 
 ---
-[Python Distributed File System](https://github.com/BigBangData/PythonDFS)
+[Python Distributed File System](https://github.com/BigBangData/PythonDFS/blob/master/README.md)
 <img src="images/PythonDFSdemo.gif?raw=true"/>
 
 ---
@@ -24,12 +24,10 @@
 
 ---
 
-### Data Fun
+### Side Projects
 
 - [Testing New Home Internet Speeds](https://github.com/BigBangData/Speedtest/blob/speed/README.md)
 <img src="images/speedtest_viz.png"/>
-
-[Link to another page](./another-page.html).
 
 
 ---
